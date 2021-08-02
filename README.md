@@ -2,6 +2,8 @@
 
 一个只会一点点 Python，c++ 的萌新
 
+[blog: sy-blog.moe](https://sy-blog.moe)
+
 公众号：路人甲实验室（已经三年没更新了，咕咕咕）
 
 ## 目前在做的项目

@@ -14,7 +14,7 @@
 
 [mail:shi06yue@gmail.com](mailto:shi06yue@gmail.com)
 
-QQ:2040195870
+
 
 <!--
 **sh06y/sh06y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

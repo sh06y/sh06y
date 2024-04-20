@@ -4,17 +4,6 @@
 
 [blog: sy-blog.moe](https://sy-blog.moe)
 
-公众号：路人甲实验室（已经三年没更新了，咕咕咕）
-
-## 目前在做的项目
-
-
-
-## 联系方式
-
-[mail:shi06yue@gmail.com](mailto:shi06yue@gmail.com)
-
-
 
 <!--
 **sh06y/sh06y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

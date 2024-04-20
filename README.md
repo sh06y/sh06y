@@ -8,7 +8,7 @@
 
 ## 目前在做的项目
 
-- [基于 esp8266 的家庭电表智能功率计](https://github.com/sh06y/power-meter-8266)
+
 
 ## 联系方式
 

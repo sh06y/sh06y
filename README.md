@@ -1,9 +1,10 @@
-# Hi there 👋
+# Hi there~ 🐈
 
-一个只会一点点 Python，c++ 的萌新
+🌱 I'm currently studying Electronic Engineering at Macau University of Science and Technology.
 
-[blog: sy-blog.moe](https://sy-blog.moe)
+📫 How to reach me: [www.sy-blog.moe](https://sy-blog.moe)
 
+![sh06y's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sh06y&theme=default&hide_border=true)
 
 <!--
 **sh06y/sh06y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

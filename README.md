@@ -4,7 +4,7 @@
 
 📫 How to reach me: [www.sy-blog.moe](https://sy-blog.moe)
 
-![sh06y's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sh06y&theme=default&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sh06y)](https://git.io/streak-stats)
 
 <!--
 **sh06y/sh06y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

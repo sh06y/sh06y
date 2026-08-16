@@ -4,8 +4,9 @@
 
 📫 How to reach me: me@sy-blog.moe
 
-[![My AI coding usage](https://srctyff5.us-east.insforge.app/functions/tokentracker-embed-svg?user_id=e55aa54b-f4f0-4f2c-938d-db7df35aad27&theme=dark)](https://www.tokentracker.cc/u/e55aa54b-f4f0-4f2c-938d-db7df35aad27?ref=readme)
+[![Tokscale Stats](https://tokscale.ai/api/embed/sh06y/svg?view=3d&theme=light&sort=cost)](https://tokscale.ai/u/sh06y)
 
+[![Tokscale Stats](https://tokscale.ai/api/embed/sh06y/svg?theme=light&sort=cost&template=vitals&tokens=compact&cost=compact)](https://tokscale.ai/u/sh06y)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sh06y)](https://git.io/streak-stats)
 
